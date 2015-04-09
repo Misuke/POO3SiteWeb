@@ -1,0 +1,10 @@
+<div class="jumbotron">
+    <h2>{{ name }}</h2>
+    <img src="{{ photo }}" alt="Photo {{ name }}" />
+    <ul>
+        <li ng-repeat="study in studies">
+            {{ study.year }} - {{ study.label }} : {{ study.school }}
+        </li>
+    </ul>
+    <span><i class="fa fa-download"></i> <a href="{{ pdfFile }}">Télécharger la version PDF</a></span>
+</div>

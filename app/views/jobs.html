@@ -1,0 +1,9 @@
+<div class="jumbotron">
+    Label : <input type="text" name="search" ng-model="job.label" />
+    <div ng-repeat="job in jobs | filter:job">
+        <h4>{{ job.label }} ({{ job.time }})</h4>
+        <span>{{ job.date }}</span>
+
+        <p>{{ job.description }}</p>
+    </div>
+</div>

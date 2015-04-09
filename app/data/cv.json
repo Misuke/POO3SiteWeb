@@ -1,0 +1,44 @@
+{
+	"firstname": "Pascal",
+	"lastname": "Tung",
+    "github": "https://github.com/Misuke",
+    "linkedin": "http://www.linkedin.com/in/pascaltung",
+	"twitter": "https://twitter.com/TungKaWai",
+    "photo": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/024/1c9/0ce27ce.jpg",
+    "mail": "tung.pascal@etu.unice.fr",
+    "labelMail": "tung.pascal at etu.unice.fr",
+    "pdfFile": "#",
+    "studies": [
+        {
+            "year": 2012,
+            "label": "Baccalauréat Scientifique",
+            "school": "Lycée Pierre Mendès France, Académie d’Aix-Marseille"
+        },
+        {
+            "year": 2014,
+            "label": "D.U.T. Informatique",
+            "school": "I.U.T. d’Aix-Marseille Université site d’Aix-en-Provence"
+        },
+        {
+            "year": 2017,
+            "label": "Diplôme d'ingénieur en Sciences Informatique",
+            "school": "Polytech Nice'Sophia, Université de Nice"
+        }
+    ],
+    "jobs": [
+        {
+            "label": "Stagiaire développeur web",
+            "company": "Xeonys",
+            "date": "Avril 2014 - Juin 2014",
+            "time": "3 mois",
+            "description": "Réalisation d'une application sous Symfony2"
+        },
+        {
+            "label": "Développeur web",
+            "company": "Xeonys",
+            "date": "Avril 2014 - Août 2014",
+            "time": "5 mois",
+            "description": "Développement d'applications web sous Symfony2 avec jeux de tests fonctionnels"
+        }
+    ]
+}
